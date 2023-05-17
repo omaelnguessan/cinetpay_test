@@ -1,0 +1,18 @@
+{
+  "name": "cinetpay_test",
+  "version": "1.0.0",
+  "description": "Ce projet est une simulation d'une chaîne de production qui assemble des pistons. Il a été réalisé dans le cadre du test pour Cinetpay",
+  "main": "dits/app.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js"
+  },
+  "keywords": [],
+  "author": "N'guessan Ahouatho Omael",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.4"
+  }
+}
